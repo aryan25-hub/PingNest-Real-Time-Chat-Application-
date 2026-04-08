@@ -2,6 +2,8 @@
 
 A comprehensive, full-stack real-time chat application built with a modern microservices architecture. It features real-time messaging, user authentication with OTP verification, image sharing, and a responsive UI.
 
+**🌐 Live Demo:** [https://your-aws-domain-or-ip.com](https://your-aws-domain-or-ip.com)
+
 ## 🏗️ Architecture / Project Structure
 
 The project is structured into a functional frontend and a microservices-based backend to ensure scalability and separation of concerns.
